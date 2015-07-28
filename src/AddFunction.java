@@ -12,10 +12,10 @@ public class AddFunction {
       // then print the returned sum
       int sum2 = add(10, 20);
       System.out.println("Sum 2: " + sum2);
-      
       // Call add with 50 and 70 below this line
       // then print the returned value
-
+      int sum3 = add(50,70);
+      System.out.println("Sum 3 is " + sum3);
 
        // Below this line read in two values from the user
        // and add them together
